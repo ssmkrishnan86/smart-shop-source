@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /checkout
+Disallow: /profile
+Disallow: /orders
+
+Sitemap: https://smartshop.example.com/sitemap.xml

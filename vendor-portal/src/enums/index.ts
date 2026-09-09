@@ -1,0 +1,49 @@
+export enum OrderStatus {
+  PENDING = 'PENDING',
+  PROCESSING = 'PROCESSING',
+  SHIPPED = 'SHIPPED',
+  DELIVERED = 'DELIVERED',
+  CANCELLED = 'CANCELLED',
+  REFUNDED = 'REFUNDED',
+}
+
+export enum VendorStatus {
+  PENDING_VERIFICATION = 'PENDING_VERIFICATION',
+  ACTIVE = 'ACTIVE',
+  SUSPENDED = 'SUSPENDED',
+  REJECTED = 'REJECTED',
+}
+
+export enum PaymentMethod {
+  UPI = 'UPI',
+  CREDIT_CARD = 'CREDIT_CARD',
+  DEBIT_CARD = 'DEBIT_CARD',
+  NET_BANKING = 'NET_BANKING',
+  WALLETS = 'WALLETS',
+  CASH_ON_DELIVERY = 'CASH_ON_DELIVERY',
+}
+
+export enum UserRole {
+  VENDOR_OWNER = 'VENDOR_OWNER',
+  VENDOR_MANAGER = 'VENDOR_MANAGER',
+  VENDOR_SUPPORT = 'VENDOR_SUPPORT',
+}
+
+export enum Currency {
+  INR = 'INR',
+  USD = 'USD',
+  EUR = 'EUR',
+}
+
+export enum PayoutStatus {
+  PENDING = 'PENDING',
+  PROCESSING = 'PROCESSING',
+  COMPLETED = 'COMPLETED',
+  FAILED = 'FAILED',
+}
+
+export enum CouponStatus {
+  ACTIVE = 'ACTIVE',
+  EXPIRED = 'EXPIRED',
+  SCHEDULED = 'SCHEDULED',
+}

@@ -1,0 +1,41 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "categories": "Categorías",
+    "deals": "Ofertas",
+    "vendors": "Vendedores",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "search_placeholder": "Buscar entre más de 50.000 productos...",
+    "sign_in": "Iniciar Sesión",
+    "register": "Registrarse",
+    "my_account": "Mi Cuenta",
+    "my_orders": "Mis Pedidos",
+    "wishlist": "Lista de Deseos",
+    "cart": "Carrito"
+  },
+  "home": {
+    "hero_title": "Descubre todo lo que amas en un solo lugar",
+    "hero_subtitle": "Plataforma multivendedor empresarial con más de 10.000 marcas líderes.",
+    "shop_now": "Comprar Ahora",
+    "explore_categories": "Explorar Categorías",
+    "trending_products": "Productos Tendencia",
+    "featured_vendors": "Tiendas Destacadas"
+  },
+  "common": {
+    "add_to_cart": "Añadir al Carrito",
+    "buy_now": "Comprar Ahora",
+    "in_stock": "En Stock",
+    "out_of_stock": "Agotado",
+    "price": "Precio",
+    "rating": "Calificación",
+    "reviews": "Reseñas",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort_by": "Ordenar por",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "checkout": "Realizar Pedido"
+  }
+}
